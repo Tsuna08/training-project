@@ -1,4 +1,4 @@
-# Training project on react
+# Training project
 
 ![Layout](./images/layout.png)
 
